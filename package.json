@@ -1,0 +1,30 @@
+{
+  "name": "jsonresume-theme-resu",
+  "version": "0.0.1",
+  "description": "A theme for JSON Resume.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "resume serve"
+  },
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xwartz/jsonresume-theme-resu.git"
+  },
+  "keywords": [
+    "jsonresume",
+    "theme",
+    "jsonresume-theme",
+    "resu",
+    "resume"
+  ],
+  "author": "xwartz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xwartz/jsonresume-theme-resu/issues"
+  },
+  "homepage": "https://github.com/xwartz/jsonresume-theme-resu#readme"
+}
